@@ -12,14 +12,11 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        
+        Welcome
       </main>
 
       <footer className={styles.footer}>
-        
-          <span className={styles.logo}>
             Created By Meppadam Boys
-          </span>
       </footer>
     </div>
   )
